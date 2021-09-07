@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish Singh
-- 👀 I’m interested in Data Science and Robotics
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Scientist role
 - 📫 How to reach me -9910749473
